@@ -26,7 +26,6 @@ This document records the current state of the system, the complete implementati
 /Users/krish/Desktop/K-692/Tower/
 ├── .gitignore                     # Git exclusion rules (excluding briefs, archives, and venv)
 ├── README.md                      # Comprehensive public project documentation & user guide
-├── REAM.md                        # Quick reference alias file
 ├── flow.md                        # Smart Implementation Journey & Research Blueprint
 ├── main.py                        # Core Streamlit web application & inference engine
 ├── requirements.txt               # Locked production dependencies
@@ -220,7 +219,6 @@ During static analysis and testing of `main.py`, several edge-case vulnerabiliti
 - Tracked custom deep learning model checkpoints (`model/*.pt`), ensuring all trained weights are packaged directly for immediate deployment.
 - Created comprehensive public documentation suite:
   - `README.md`: Complete system architecture, mathematical derivations, installation guide, and quickstart instructions.
-  - `REAM.md`: Dedicated alias pointer.
   - `flow.md`: Academic research paper blueprint and smart implementation journey.
 
 ---

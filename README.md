@@ -186,7 +186,6 @@ The repository includes pre-trained custom YOLOv8 model checkpoints in the `mode
 Tower-Insights/
 ├── .gitignore               # Ignored environments, archives, client briefs, and temp runs
 ├── README.md                # Primary project documentation and usage guide
-├── REAM.md                  # Quick reference / alias pointer
 ├── flow.md                  # Comprehensive implementation journey and research blueprint
 ├── main.py                  # Core Streamlit web application & inference engine
 ├── requirements.txt         # Pinned production dependencies
